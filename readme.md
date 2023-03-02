@@ -33,10 +33,6 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2023] [Ryan Gutierrez]
